@@ -1,36 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Online Banking Platform - Real World App**
 
-## Getting Started
+**Overview**
+Learned how to build and deploy a banking app with a finance management dashboard. This platform connects multiple bank accounts, displays real-time transactions, and allows users to transfer money to others on the platform using Next.js 14.
 
-First, run the development server:
+**Technologies Used**
+Next.js 14: Developed reusable, efficient components for a dynamic and responsive user interface.
+Plaid: Seamlessly integrated with various international banks to provide real-time financial data.
+Dwolla: Enabled secure connections with real credit cards for reliable and fast transactions.
+Sentry: Monitored, tracked, and protected the application to ensure robust error handling and security.
+Shadcn: Enhanced UI/UX design with versatile and customizable components.
+TypeScript: Leveraged strong typing to enhance code reliability and maintainability.
+React Hook Form: Managed forms efficiently with minimal re-renders and improved performance.
+Zod: Implemented schema-based form validation for robust data integrity.
+Appwrite: Deployed a full-stack application with seamless backend services and authentication.
+Tailwind CSS: Styled the application with utility-first CSS for responsive and modern design.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Lessons Learned**
+While building this project, I gained hands-on experience with:
+Developing a comprehensive online banking platform
+Integrating financial services for real-time transaction data
+Ensuring application stability and error monitoring
+Utilizing advanced TypeScript features for type safety
+Implementing form handling with React Hook Form and validation with Zod
+Deploying a full-stack application using Appwrite
+Styling the app with Tailwind CSS for responsive design
